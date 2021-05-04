@@ -4,6 +4,8 @@
 
 - [X] [UNIT 1](https://github.com/prebitha/Ironhack-Labs/tree/main/Unit1%20-%20Python).
 - 
+- [X] [UNIT 2](https://github.com/prebitha/Ironhack-Labs/tree/main/Unit2%20-%20MachineLearning).
+
 - [X] [UNIT 3](https://github.com/prebitha/Ironhack-Labs/tree/main/Unit3%20-%20Sql).
 
 - [X] [UNIT 4](https://github.com/prebitha/Ironhack-Labs/tree/main/Unit4%20-%20MachineLearning).
