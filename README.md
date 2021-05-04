@@ -2,4 +2,4 @@
 
 # Ironhack|Bootcamp Labs
 
-- [X] UNIT 1 [GitHub Pages](https://github.com/prebitha/Ironhack-Labs/tree/main/Unit1%20-%20Python).
+- [X] [UNIT 1](https://github.com/prebitha/Ironhack-Labs/tree/main/Unit1%20-%20Python).
